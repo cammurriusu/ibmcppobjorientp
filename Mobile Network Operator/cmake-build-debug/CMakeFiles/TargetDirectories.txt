@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM OOP/Mobile Network Operator/cmake-build-debug/CMakeFiles/Mobile_Network_Operator.dir
+/home/riccardo/Documents/IBM OOP/Mobile Network Operator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM OOP/Mobile Network Operator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
