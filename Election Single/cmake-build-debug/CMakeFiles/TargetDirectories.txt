@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM OOP/Election Single/cmake-build-debug/CMakeFiles/Election_Single.dir
+/home/riccardo/Documents/IBM OOP/Election Single/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM OOP/Election Single/cmake-build-debug/CMakeFiles/rebuild_cache.dir
