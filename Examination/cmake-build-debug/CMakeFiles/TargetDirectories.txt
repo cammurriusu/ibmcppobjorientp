@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM OOP/Examination/cmake-build-debug/CMakeFiles/Examination.dir
+/home/riccardo/Documents/IBM OOP/Examination/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM OOP/Examination/cmake-build-debug/CMakeFiles/rebuild_cache.dir
