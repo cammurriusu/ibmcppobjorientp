@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM OOP/Book Train TIckets/cmake-build-debug/CMakeFiles/Book_Train_TIckets.dir
+/home/riccardo/Documents/IBM OOP/Book Train TIckets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM OOP/Book Train TIckets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

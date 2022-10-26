@@ -1,0 +1,3 @@
+/home/riccardo/Documents/IBM OOP/Employee Salary Calculation/cmake-build-debug/CMakeFiles/Employee_Salary_Calculation.dir
+/home/riccardo/Documents/IBM OOP/Employee Salary Calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/riccardo/Documents/IBM OOP/Employee Salary Calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
